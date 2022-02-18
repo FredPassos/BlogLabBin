@@ -1,0 +1,4 @@
+baseURL = 'http://fredpassos.github.io/'
+languageCode = 'en-us'
+title = 'Quick Start'
+theme = 'ananke'
