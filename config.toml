@@ -1,4 +1,4 @@
-baseURL = 'http://fredpassos.github.io/'
+baseURL = 'https://fredpassos.github.io/BlogLabBin/'
 languageCode = 'en-us'
 title = 'Quick Start'
 theme = 'ananke'
